@@ -26,10 +26,9 @@ where <img src="https://render.githubusercontent.com/render/math?math=$p=2$"> is
 
 
 The instantaneous volatility is built from the time-dependent Brownian Motion model and the instantaneous
+volatility has an estimator. 
 
-volatility has an estimator. The finding of Realised Volatility in high frequency data such as the bid and ask
-
+The finding of Realised Volatility in high frequency data such as the bid and ask
 prices from UK stock index, FTSE 100 in different time interval, the result gives that the realised volatility
-
 is a good estimator of the instantaneous volatility.
 
